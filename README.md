@@ -1,6 +1,8 @@
 # React_news26
 
-YouTube : 
+Live Website : https://news26.netlify.app/
+
+YouTube : https://youtu.be/-z2BMae51Dc
 
 ScreenShots : 
 
